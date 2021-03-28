@@ -2,7 +2,7 @@
 
 Tecnologias: HTML, CSS e JS
 
-- HTML foi trabalhado a ideia de se pensar uma boa estrutura origanizada e usar class names que fazem sentido.
+- HTML foi trabalhado a ideia de se pensar uma boa estrutura origanizada e o uso class names que fazem sentido.
 - CSS foi trabalhado muitas formas de seletores, animações com @keyframes e resposividade com @media.
 - JS foi básico, mas muito bom. Ele serve para alterar a class do body quando botões são clicados, permitindo que as animações aconteçam no momento certo.
 
